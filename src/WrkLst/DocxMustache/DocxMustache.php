@@ -376,7 +376,7 @@ class DocxMustache
             //$this->RemoveReplaceImages($imgs_replaced, $rels_file);
 
             //add jpg content type if not set
-            $this->AddContentType('jpeg');
+            //$this->AddContentType('jpeg');
 
             $this->InsertImages($ns, $imgs, $rels_file, $main_file, $dpi);
 
