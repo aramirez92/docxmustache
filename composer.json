@@ -1,5 +1,5 @@
 {
-    "name": "docxmustache/docxmustache",
+    "name": "aramirez92/docxmustache",
     "description": "docx template manipulation class, based on mustache templating language",
     "keywords": ["laravel", "docx", "openxml", "template", "mustache", "php"],
     "require": {
